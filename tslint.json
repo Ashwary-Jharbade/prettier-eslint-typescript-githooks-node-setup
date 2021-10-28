@@ -5,8 +5,7 @@
         "eofline": false,
         "forin": true,
         "indent": [
-            true,
-            "tabs"
+            true
         ],
         "label-position": true,
         "max-line-length": [
