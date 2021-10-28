@@ -5,7 +5,6 @@ const main = (): void => {
   var b = Object.assign({}, a, { k3: 'v3' });
   console.log(b);
   const app = express();
-  console.log();
 
   for (const i of a) {
     console.log(i);
